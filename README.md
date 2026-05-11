@@ -28,7 +28,7 @@ A fully customisable 60% default mechanical keyboard!
 ### 3D View
 
 <img width="1260" height="551" alt="image" src="https://github.com/user-attachments/assets/ce45e845-08a6-403e-b81e-ac46b4263946" />
-
+/n/n
 
 <img width="1256" height="557" alt="image" src="https://github.com/user-attachments/assets/ce5a0c88-ac44-4456-a662-bb6973740664" />
 
