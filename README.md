@@ -9,7 +9,7 @@ A fully customisable 60% default mechanical keyboard!
 2) Click INC OF Linear Switches
 3) Plate Mount Stabilizers
 4) 1N4148 Diodes
-5) QMK Firmware (Fully customisable!)
+5) QMK Firmware
 
 ---
 
