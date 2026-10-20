@@ -6,12 +6,12 @@ A fully customisable 60% default mechanical keyboard!
 
 ## Components
 1) Raspberry Pi Pico
-2) Keygeek x MZ Y3 Linear Switches
-3) QMK Firmware (Fully customisable!)
+2) Click INC OF Linear Switches
+3) Plate Mount Stabilizers
+4) 1N4148 Diodes
+5) QMK Firmware (Fully customisable!)
 
 ---
-
-## CADs
 
 ### Schematic
 
