@@ -2,8 +2,6 @@
 
 
 ## Entry 1
-- ID: 5893
-- Author: yajur
 - Created At: May 7th, 2026
 - Worked for: 2 hours 3 minutes
 
@@ -32,8 +30,6 @@ heres a ss of my plate that i designed using the swillkb website, its pretty coo
 
 
 ## Entry 2
-- ID: 5923
-- Author: yajur
 - Created At: May 7th, 2026
 - Worked for: 1 hour 18 minutes
 
@@ -51,8 +47,6 @@ YEAH, rats nest.
 - https://lookout.hackclub.com/api/media/ceab856b-4d7b-44f3-8d52-44b907fc9714/video.mp4
 
 ## Entry 3
-- ID: 6070
-- Author: yajur
 - Created At: May 8th, 2026
 - Worked for: 1 hour 56 minutes
 
@@ -81,8 +75,6 @@ heres the upsetting screenshot of my doom
 - https://lookout.hackclub.com/api/media/e40e3a29-ea73-4fb1-89ab-404a93e6737f/video.mp4
 
 ## Entry 4
-- ID: 6222
-- Author: yajur
 - Created At: May 9th, 2026
 - Worked for: 59 minutes
 
@@ -106,8 +98,6 @@ heres a current 3d model of my pcb, and hopefully today ill complete the routing
   
 
 ## Entry 5
-- ID: 6470
-- Author: yajur
 - Created At: May 10th, 2026
 - Worked for: 2 hours 27 minutes
 
@@ -135,8 +125,6 @@ i need to edit the switch plate and the firmware now.
 - https://lookout.hackclub.com/api/media/a0695aca-4058-47ed-9e1c-43ae3a826b6a/video.mp4
 
 ## Entry 6
-- ID: 6547
-- Author: yajur
 - Created At: May 11th, 2026
 - Worked for: 2 hours
 
@@ -159,8 +147,6 @@ im so insanely happy, because this means im actually extremely close to finishin
 - https://lookout.hackclub.com/api/media/59a9abd1-e22c-4c48-9f89-76369608c2d8/video.mp4
 
 ## Entry 7
-- ID: 6914
-- Author: yajur
 - Created At: May 13th, 2026
 - Worked for 1 hour 22 minutes
 
@@ -168,9 +154,8 @@ im so insanely happy, because this means im actually extremely close to finishin
 
 did cad work today, pretty basic.
 
-first i had to edit the switch plate to accommodate the increase in size of the pi. then, i realised theres enough space to add an oled!
+first i had to edit the switch plate to accommodate the increase in size of the pi. 
 
-so thats what i did. added SSD1306 oled display, and positioned it.
 
 
 <img width="925" height="511" alt="image" src="https://github.com/user-attachments/assets/1b8e8d82-0593-4466-afe4-40bb99fc0505" />
@@ -178,3 +163,22 @@ so thats what i did. added SSD1306 oled display, and positioned it.
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/a5da7c6f-0a73-4071-98da-929c07a3b514/video.mp4
+  
+
+## Entry 8
+- Created At: October 20th, 2026
+- Worked for 1 hour 34 minutes
+
+### Content
+
+opened this project after so long, just to create the case for the keyboard, so i could finish this!
+
+so i realised, removing the oled would be a good idea as it would overwhelm the look. right now, till the artwork looks clean!
+
+anyways, i downloaded the dxf for the keyplate again, imported it to shapr3d, saw shapr's tutorial for 3d CAD modelling, made some screw holes for the screws, added a box around the plate stabilizers, and extruded it. this took long to figure out and make tho :( but now we're done with the switchplate!
+
+im skipping on creating the top case, as i wanted to keep this a little raw (and coz i wanna cut in on the time to build the case coz i dont know how to 3D CAD) so as of now, till the switch plate, my project is all done!
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/3maGoJuVpEYr
