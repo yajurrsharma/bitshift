@@ -41,7 +41,8 @@ heres a ss of my plate that i designed using the swillkb website, its pretty coo
 
 continued on the work left yesterday, apparently i had done some blunders :P. anyways, redid the connections, edited footprints to match the keys, and added them all to the pcb editor. tomorrow, im going to fix, THIS.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0ODQsInB1ciI6ImJsb2JfaWQifX0=--55e185326acc3d4e0b1fc7d66c3ab681c1183519/image.png)
+<img width="1183" height="614" alt="image" src="https://github.com/user-attachments/assets/fbfd264a-72e4-4f55-aa6b-918fb9301bc2" />
+
 
 YEAH, rats nest.
 
@@ -68,7 +69,8 @@ yes. all the diodes placements, connections, everything. i mean it is what it is
 anyway, ill come back to this later (with the connections fixed again) complete the pcb, and get to the firmware!
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI3OTgsInB1ciI6ImJsb2JfaWQifX0=--9cd97444cd9d584b08db8e807b3d83c34ea5a164/image.png)
+<img width="716" height="754" alt="image" src="https://github.com/user-attachments/assets/780803e7-8c04-4466-9dbb-e9d0f19dc980" />
+
 
 
 heres the upsetting screenshot of my doom
@@ -93,7 +95,7 @@ i revised my BOM, coz i found some better quality AND less expensive switches, s
 
 anyway, i might have to change some connections in the schematic itself, to make the routing easier. ill probably open my old mechanical keyboard and have a look at it to understand it better.
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMxOTIsInB1ciI6ImJsb2JfaWQifX0=--b4a8a1f2ec2d3c6c1c346209ab3a96986bd3c640/image.png)
+<img width="1261" height="471" alt="image" src="https://github.com/user-attachments/assets/5edb98cb-8ca4-4bf0-9f00-1cedae6a734d" />
 
 
 heres a current 3d model of my pcb, and hopefully today ill complete the routing.
@@ -142,12 +144,12 @@ i need to edit the switch plate and the firmware now.
 
 FIRMWARE IS COMPLETED!
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwODMsInB1ciI6ImJsb2JfaWQifX0=--149ce1874ba66de9d34669a4b283539a798f0764/image.png)
+<img width="600" height="412" alt="image" src="https://github.com/user-attachments/assets/8950b6b5-7a1a-4538-bb49-ca1c7e555fdf" />
 
 and HERES THE FINAL PCB DESIGN!!
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQwODQsInB1ciI6ImJsb2JfaWQifX0=--472d8eeec0225bd425c7bdfabaaba6394ecc936f/image.png)
+<img width="1364" height="589" alt="image" src="https://github.com/user-attachments/assets/760a303a-7307-4237-b673-aa148d6a7e00" />
 
 im so insanely happy, because this means im actually extremely close to finishing this! the only things left is the switch plate, which ill edit and finalise very soon (today most probably)
 
@@ -171,7 +173,7 @@ first i had to edit the switch plate to accommodate the increase in size of the 
 so thats what i did. added SSD1306 oled display, and positioned it.
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMTMsInB1ciI6ImJsb2JfaWQifX0=--b86abb92ab81a7d20be9e82b9a98ce5a7987bd19/image.png)
+<img width="925" height="511" alt="image" src="https://github.com/user-attachments/assets/1b8e8d82-0593-4466-afe4-40bb99fc0505" />
 
 ### Recording Links
 
