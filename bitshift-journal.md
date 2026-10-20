@@ -15,9 +15,8 @@ today was pretty basic. first i started by making a BOM. then, i went ahead and 
 
 im making a 60% keyboard, having 61 keys, no leds unfortunately, that would skyrocket the overall cost. 
 
-anyways, then i made the schematic, drew the switch matrix, connected everything to the RPi Pico, and then assigned some footprints. i need to double check everything right now, so once i come to this again, i will recheck the footprints so all keys are correctly mapped. i think everything might be well and good :)
+anyways, then i made the schematic, drew the switch matrix, connected everything to the RPi Pico, and then assigned some footprints. i need to double check everything right now, so once i come to this again, i will recheck the footprints so all keys are correctly mapped.
 
-although, one thing that bugs is that the minimum pcb orders are like 5, so idk what to do with the remaining 4 pcbs. but we'll see what to do about it later. right now, im pretty hyped up!
 
 <img width="1177" height="416" alt="image (7)" src="https://github.com/user-attachments/assets/53ea5b7e-7fb7-4565-a3bd-7f556a0e36a8" />
 
