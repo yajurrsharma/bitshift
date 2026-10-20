@@ -179,6 +179,14 @@ anyways, i downloaded the dxf for the keyplate again, imported it to shapr3d, sa
 
 im skipping on creating the top case, as i wanted to keep this a little raw (and coz i wanna cut in on the time to build the case coz i dont know how to 3D CAD) so as of now, till the switch plate, my project is all done!
 
+heres how the final switchplate came out!
+
+<img width="890" height="413" alt="image" src="https://github.com/user-attachments/assets/60f6da95-f131-441e-900e-78fad34d043e" />
+
+<img width="895" height="485" alt="image" src="https://github.com/user-attachments/assets/65a2d5df-a351-4492-90a9-0d5cc0f8127c" />
+
+i used M2 screw holes (which i later realised i will not be needing, as the switch plate and the switches clicking will keep the pcb stable as is (also to mention, soldering the keys will not move the pcb), keeping the plate 3mm in thickness!
+
 ### Recording Links
 
 - https://lapse.hackclub.com/timelapse/3maGoJuVpEYr
