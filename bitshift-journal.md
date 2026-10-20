@@ -4,7 +4,7 @@
 ## Entry 1
 - ID: 5893
 - Author: yajur
-- Created At: 2026-05-07T13:29:27Z
+- Created At: May 7th, 2026
 - Worked for: 2 hours 3 minutes
 
 ### Content
@@ -34,7 +34,7 @@ heres a ss of my plate that i designed using the swillkb website, its pretty coo
 ## Entry 2
 - ID: 5923
 - Author: yajur
-- Created At: 2026-05-07T17:04:12Z
+- Created At: May 7th, 2026
 - Worked for: 1 hour 18 minutes
 
 ### Content
@@ -52,7 +52,7 @@ YEAH, rats nest.
 ## Entry 3
 - ID: 6070
 - Author: yajur
-- Created At: 2026-05-08T10:46:37Z
+- Created At: May 8th, 2026
 - Worked for: 1 hour 56 minutes
 
 ### Content
@@ -81,7 +81,7 @@ heres the upsetting screenshot of my doom
 ## Entry 4
 - ID: 6222
 - Author: yajur
-- Created At: 2026-05-09T08:05:57Z
+- Created At: May 9th, 2026
 - Worked for: 59 minutes
 
 ### Content
@@ -106,7 +106,7 @@ heres a current 3d model of my pcb, and hopefully today ill complete the routing
 ## Entry 5
 - ID: 6470
 - Author: yajur
-- Created At: 2026-05-10T18:28:03Z
+- Created At: May 10th, 2026
 - Worked for: 2 hours 27 minutes
 
 ### Content
@@ -135,7 +135,7 @@ i need to edit the switch plate and the firmware now.
 ## Entry 6
 - ID: 6547
 - Author: yajur
-- Created At: 2026-05-11T07:05:58Z
+- Created At: May 11th, 2026
 - Worked for: 2 hours
 
 ### Content
@@ -159,7 +159,8 @@ im so insanely happy, because this means im actually extremely close to finishin
 ## Entry 7
 - ID: 6914
 - Author: yajur
-- Created At: 2026-05-13T10:07:24Z
+- Created At: May 13th, 2026
+- Worked for 1 hour 22 minutes
 
 ### Content
 
