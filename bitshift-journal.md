@@ -27,7 +27,8 @@ anyways, then i made the schematic, drew the switch matrix, connected everything
 
 although, one thing that bugs is that the minimum pcb orders are like 5, so idk what to do with the remaining 4 pcbs. but we'll see what to do about it later. right now, im pretty hyped up!
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0MTMsInB1ciI6ImJsb2JfaWQifX0=--dc11c8171bd4d466754e8d0a33f1a23cd342a435/image.png)
+<img width="1177" height="416" alt="image (7)" src="https://github.com/user-attachments/assets/53ea5b7e-7fb7-4565-a3bd-7f556a0e36a8" />
+
 heres a ss of my plate that i designed using the swillkb website, its pretty cool
 
 
