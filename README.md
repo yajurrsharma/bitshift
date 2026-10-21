@@ -37,11 +37,12 @@ https://cad.onshape.com/documents/e934466d28d46fd1f6dcf889/w/7781f521603f6141273
 
 ### Assembly
 
-<img width="781" height="447" alt="image" src="https://github.com/user-attachments/assets/9d5431c8-26e5-484e-b371-5f358597cb29" />
+<img width="851" height="454" alt="image" src="https://github.com/user-attachments/assets/0d8accd1-c918-47e6-a4b0-3da82ed0a3f5" />
+
 
 ---
 
-<img width="861" height="480" alt="image" src="https://github.com/user-attachments/assets/77a13d41-01a0-4653-a92f-27657de116fe" />
+<img width="851" height="454" alt="image" src="https://github.com/user-attachments/assets/5c822dde-22e4-4ab9-be8e-20a88ab54c68" />
 
 
 
