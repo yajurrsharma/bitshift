@@ -206,7 +206,7 @@ theres a story to that too, tho. when i first designed the case, i deleted the s
 
 heres a look of the final assembly! 
 
-<img width="781" height="447" alt="image" src="https://github.com/user-attachments/assets/8e388b31-fb53-4b46-ae62-992b4bcb2ee3" />
+<img width="851" height="454" alt="image" src="https://github.com/user-attachments/assets/453c33a9-2459-4278-8edc-3ce5b20457b2" />
 
 
 looks cool! ill have an acrylic plate to cover the top exposed part of the pcb, so only the pi, the artwork and the routing is visible. and that completes this project! (finally)
