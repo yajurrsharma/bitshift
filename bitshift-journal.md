@@ -184,8 +184,36 @@ heres how the final switchplate came out!
 
 <img width="895" height="485" alt="image" src="https://github.com/user-attachments/assets/65a2d5df-a351-4492-90a9-0d5cc0f8127c" />
 
+
+
 i used M2 screw holes (which i later realised i will not be needing, as the switch plate and the switches clicking will keep the pcb stable as is (also to mention, soldering the keys will not move the pcb), keeping the plate 3mm in thickness!
 
 ### Recording Links
 
 - https://lapse.hackclub.com/timelapse/3maGoJuVpEYr
+
+
+
+## Entry 8
+- Created At: October 21st, 2026
+- Worked for: 1 hour 21 minutes
+
+### Content
+
+i had received some feedback regarding making a case :P so thats what i did! 
+
+theres a story to that too, tho. when i first designed the case, i deleted the switchplate body :P, so i had no way of checking if the height was correct. redid it, and i FORGOT THAT MY PI IS NOT BEHIND THE KEYBOARD. so, AGAIN, took the total width of the pcb, redesigned the case, and exported a .step file for the case and switchplate. after that, exported the pcb from kicad, and realised the cherry mx key models are not being exported. great. tried to fix it but they just wouldnt budge, so i let it be as i had already taken a tolerance for the height during the case build. used onshape for the final assembly, with the pcb, case and switchplate! although, i didnt puncture a hole for the pi on the side yet, as i didnt know how to calculate the distance. so, inCASE i build this project, ill just cut it out with a sharp tool. finally, made a csv of the BOM so its easier to read, and we're all done!
+
+heres a look of the final assembly! 
+
+<img width="796" height="420" alt="image" src="https://github.com/user-attachments/assets/e0686297-4056-4160-8e48-33819983ef43" />
+
+looks cool! ill have an acrylic plate to cover the top exposed part of the pcb, so only the pi, the artwork and the routing is visible. and that completes this project! (finally)
+
+
+
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/xMyQoOtKOCyX
+- https://lapse.hackclub.com/timelapse/XOIqsHVFJ2Tc
