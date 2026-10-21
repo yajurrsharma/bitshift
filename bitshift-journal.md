@@ -194,7 +194,7 @@ i used M2 screw holes (which i later realised i will not be needing, as the swit
 
 
 
-## Entry 8
+## Entry 9
 - Created At: October 21st, 2026
 - Worked for: 1 hour 21 minutes
 
