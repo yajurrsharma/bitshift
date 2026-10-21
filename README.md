@@ -40,7 +40,13 @@ https://cad.onshape.com/documents/e934466d28d46fd1f6dcf889/w/7781f521603f6141273
 
 <img width="1256" height="557" alt="image" src="https://github.com/user-attachments/assets/ce5a0c88-ac44-4456-a662-bb6973740664" />
 
-<img width="796" height="420" alt="image" src="https://github.com/user-attachments/assets/59f495d5-aaa2-44c4-b1a0-a915953585b3" />
+---
+
+<img width="781" height="447" alt="image" src="https://github.com/user-attachments/assets/9d5431c8-26e5-484e-b371-5f358597cb29" />
+
+<img width="861" height="480" alt="image" src="https://github.com/user-attachments/assets/77a13d41-01a0-4653-a92f-27657de116fe" />
+
+
 
 
 
