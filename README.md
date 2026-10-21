@@ -29,7 +29,8 @@ https://cad.onshape.com/documents/e934466d28d46fd1f6dcf889/w/7781f521603f6141273
 
 ### PCB
 
-<img width="1214" height="545" alt="image" src="https://github.com/user-attachments/assets/c4061511-79ca-4261-b2fc-54b2584d7d7f" />
+<img width="929" height="428" alt="image" src="https://github.com/user-attachments/assets/26f4be88-0f16-459a-990e-26746b2da387" />
+
 
 ---
 
