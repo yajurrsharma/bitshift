@@ -1,4 +1,4 @@
-# BitShift — Journal
+# Journal
 
 
 ## Entry 1
