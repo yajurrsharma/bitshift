@@ -34,6 +34,9 @@ A fully customisable 60% default mechanical keyboard!
 
 <img width="1256" height="557" alt="image" src="https://github.com/user-attachments/assets/ce5a0c88-ac44-4456-a662-bb6973740664" />
 
+<img width="796" height="420" alt="image" src="https://github.com/user-attachments/assets/59f495d5-aaa2-44c4-b1a0-a915953585b3" />
+
+
 
 
 
