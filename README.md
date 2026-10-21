@@ -13,6 +13,12 @@ A fully customisable 60% default mechanical keyboard!
 
 ---
 
+## Links
+
+Onshape Assembly Link - 
+
+https://cad.onshape.com/documents/e934466d28d46fd1f6dcf889/w/7781f521603f614127341e10/e/2dd8a25e8e5661a052460422?renderMode=0&uiState=6ad8b4f65f7c261201e53e1d
+
 ### Schematic
 
 <img width="1083" height="654" alt="image" src="https://github.com/user-attachments/assets/c92bb11d-0674-44b0-a7a5-524918f324bc" />
